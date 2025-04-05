@@ -1,4 +1,4 @@
-##### How to Point Configure Nginx on VPS
+#### How to Point Configure Nginx on VPS
 #
 - Login SSH & Configure Nginx If not already installed or Default page not displayed:
     - Login your account via ssh credentials
