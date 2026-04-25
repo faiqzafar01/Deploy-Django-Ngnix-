@@ -2,7 +2,7 @@
 ##
 - Login SSH & Configure Nginx If not already installed or Default page not displayed:
     - Login your account via ssh credentials
-    - Update or Upgrade Packages
+    - Update or Upgrade Packages CLI
     ```sh
       sudo apt update && sudo apt upgrade -y
     ```
